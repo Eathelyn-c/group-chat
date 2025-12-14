@@ -2,7 +2,7 @@ com/boda/login/Filter.class
 com/boda/login/chat.class
 com/boda/login/Register.class
 com/boda/login/Message.class
-com/boda/login/Login.class
 com/boda/login/Logout.class
 com/boda/login/SessionListener.class
+com/boda/login/Login.class
 com/boda/login/Users.class
